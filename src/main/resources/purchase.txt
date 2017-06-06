@@ -1,0 +1,4 @@
+user001 prod010;prod933;prod022
+user002 prod912;prod331
+user003 prod888;prod022;prod010;prod594
+user004 prod411

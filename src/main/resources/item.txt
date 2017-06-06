@@ -1,0 +1,16 @@
+EST-1,Notebook
+EST-6,Bag
+EST-7,Monitor
+EST-11,MP3
+EST-12,Orange
+EST-13,Shoes
+EST-14,Desk
+EST-15,Bed
+EST-16,Cup
+EST-17,Speaker
+EST-18,Apple
+EST-19,TV
+EST-20,Knife
+EST-21,Paper
+EST-26,Socks
+EST-27,Pencil
