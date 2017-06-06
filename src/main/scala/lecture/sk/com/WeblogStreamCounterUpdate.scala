@@ -11,7 +11,7 @@ import org.apache.spark.streaming.kafka010._
 import org.apache.spark.streaming.kafka010.LocationStrategies.PreferConsistent
 import org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe
 
-object WeblogCounterUpdate {
+object WeblogStreamCounterUpdate {
   def main(args: Array[String]) {
     val conf = new SparkConf()
       .setAppName("StreamingTest")
